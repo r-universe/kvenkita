@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "drlate"]
+	path = drlate
+	url = https://github.com/kvenkita/drlate
 [submodule "rsdv"]
 	path = rsdv
 	url = https://github.com/kvenkita/rsdv
