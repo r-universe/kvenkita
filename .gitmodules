@@ -5,6 +5,9 @@
 [submodule "drlate"]
 	path = drlate
 	url = https://github.com/kvenkita/drlate
+[submodule "mixqr"]
+	path = mixqr
+	url = https://github.com/kvenkita/mixqr
 [submodule "rsdv"]
 	path = rsdv
 	url = https://github.com/kvenkita/rsdv
