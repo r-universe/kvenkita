@@ -11,6 +11,9 @@
 [submodule "mixqr"]
 	path = mixqr
 	url = https://github.com/kvenkita/mixqr
+[submodule "mixqrgate"]
+	path = mixqrgate
+	url = https://github.com/kvenkita/mixqrgate
 [submodule "rsdv"]
 	path = rsdv
 	url = https://github.com/kvenkita/rsdv
